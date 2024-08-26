@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My personal projects can be found on [Codeberg](https://codeberg.org/jwgarber).
+
 <!--
 **jwgarber/jwgarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
